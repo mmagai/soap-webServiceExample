@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://learn.com/courses"
+xsi:schemaLocation="http://learn.com/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <CourseDetails>
+  
+       <id>123</id>
+       <name>Spring</name><!--  -->
+       <description>You will understand in 10 steps</description>
+  
+  </CourseDetails>
+
+</GetCourseDetailsResponse>
